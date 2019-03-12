@@ -1,0 +1,12 @@
+PROPERTIES FILE LOCATION :/src/main/resources/setup.properties
+
+If the value of loadbeans property is mobile , then it will invoke Mobile Login App Object
+If the value of loadbeans property is web , then it will invoke Web Login Page 
+
+To Run Login Tests :
+
+1.) Location of LoginTests.java :
+src/main/java/com/harish/features/login/tests/LoginTests.java
+
+2.) Right Click on LoginTests.java in eclipse IDE and select Run As TestNG Test
+
